@@ -1,10 +1,12 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .textCenter {
     text-align: center;
 }
 
 #listIndex {
     list-style-type: none;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: -40px;
     font-size: 24px;
 }
@@ -14,8 +16,11 @@
 }
 
 .heading {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 48px;
     margin-top: 48px;
     margin-bottom: 64px;
+}
+
+.description {
+    
 }
