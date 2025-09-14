@@ -49,6 +49,11 @@ h2 {
     background-color: beige;
     padding: 10px;
     border: solid;
-    width: 96%;
-    
+    width: 96%;    
 }
+
+.home {
+    font-size: 32px;
+    float: left;
+}
+
