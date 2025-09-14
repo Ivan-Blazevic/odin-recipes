@@ -21,6 +21,34 @@
     margin-bottom: 64px;
 }
 
-.description {
+h2 {
+    margin-top: -2px;
+}
+
+.description, .ingredients {
+    font-size: 24px;
+    background-color: beige;
+    height: auto;
+    width: 60%;
+    padding: 10px;;
+    border: solid;
+    display: inline-block;
+    margin-bottom: 24px;
+}
+
+.image {
+    width: 700px;
+    float: left;
+    margin-right: 32px;
+    margin-bottom: 28px;
+}
+
+.steps {
+    font-size: 24px;
+    float: left;
+    background-color: beige;
+    padding: 10px;
+    border: solid;
+    width: 96%;
     
 }
